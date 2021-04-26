@@ -3,9 +3,7 @@
 This is my e-commerce application. It uses sequelize, express, dotenv, and mysql2 to create a platform to add products with categories, tags, and product tags.
 
 ### Video
-![](./Assets/screenshot1.jpg)
-![](./Assets/screenshot2.jpg)
-![](./Assets/screenshot3.jpg)
+![]()
 
 - - - - - - - - - - - - - - - - - -
 
